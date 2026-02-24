@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Link",
+  "base_artist": "明透",
+  "createdAt": "2026-02-24T04:10:04.462272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "East West Link",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_East_West_Link_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Link Up",
+      "artist": "NxWorries",
+      "has_synced": true,
+      "path": "select/02_Link_Up_NxWorries.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Equatorial Hemorrhage Is a Dead Link",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/03_Equatorial_Hemorrhage_Is_a_Dead_Link_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Driftwood (Live At The Link Café / 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/04_Driftwood_(Live_At_The_Link_Café___1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Driftwood (Live At The Link Café \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/05_Driftwood_(Live_At_The_Link_Café_\u0000_1999)_Travis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Driftwood (live at the Link Café, Glasgow)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/06_Driftwood_(live_at_the_Link_Café,_Glasgow)_Travis.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slide Show (Live At The Link Café / 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/07_Slide_Show_(Live_At_The_Link_Café___1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slide Show (Live At The Link Café \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/08_Slide_Show_(Live_At_The_Link_Café_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "B-Boys & Flygirls (Missing Link remix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/09_B-Boys_&_Flygirls_(Missing_Link_remix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "B-Boys 'n' Fly Girls (Missing Link Remix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/10_B-Boys_'n'_Fly_Girls_(Missing_Link_Remix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Freestyler (Missing Link remix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/11_Freestyler_(Missing_Link_remix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Freestyler (Missing Link Remix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/12_Freestyler_(Missing_Link_Remix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rocking, Just to Make Ya Move (Missing Link 2Step mix)",
+      "artist": "Bomfunk MC’s",
+      "has_synced": false,
+      "path": "select/13_Rocking,_Just_to_Make_Ya_Move_(Missing_Link_2Step_mix)_Bomfunk_MC’s.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rockin, Just Make Ya Move (Missing Link 2step Mix)",
+      "artist": "Bomfunk MC's",
+      "has_synced": false,
+      "path": "select/14_Rockin,_Just_Make_Ya_Move_(Missing_Link_2step_Mix)_Bomfunk_MC's.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Missing Link",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/15_Missing_Link_CURVE.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Link",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/16_Link_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Missing Link (Screaming Bird mix)",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/17_Missing_Link_(Screaming_Bird_mix)_CURVE.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Missing Link Screaming Bird Mix",
+      "artist": "Curve",
+      "has_synced": false,
+      "path": "select/18_Missing_Link_Screaming_Bird_Mix_Curve.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Desire (feat. Greta Link)",
+      "artist": "Perturbator feat. Greta Link",
+      "has_synced": false,
+      "path": "select/19_Desire_(feat._Greta_Link)_Perturbator_feat._Greta_Link.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Link",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_Link_明透.txt"
+    }
+  ]
+}
